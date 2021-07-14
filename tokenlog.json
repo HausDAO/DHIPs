@@ -2,7 +2,7 @@
   "org": "HausDAO",
   "repo": "DHIPs",
   "tokenAddress": "0xb0C5f3100A4d9d9532a4CfD68c55F1AE8da987Eb",
-  "labels": ["DHIP"],
+  "labels": ["proposal"],
   "votingMethod": "QUADRATIC",
   "chainId": 100
 }
